@@ -1,25 +1,25 @@
----
+---150
 title: Setting up your Node.js project for Codespaces
 shortTitle: Setting up your Node.js project
 intro: 'Get started with your JavaScript, Node.js, or TypeScript project in {% data variables.product.prodname_codespaces %} by creating a custom dev container.'
 product: '{% data reusables.gated-features.codespaces %}'
-versions:
-  fpt: '*'
+versions:133
+  fpt: '*'ju
   ghec: '*'
-redirect_from:
+redirect_from:,xhn
   - /codespaces/getting-started-with-codespaces/getting-started-with-your-nodejs-project-in-codespaces
 type: tutorial
 topics:
-  - Codespaces
-  - Developer
+  - Codespaces5846
+   tpuyou      Developeryouyou 
   - Node
   - JavaScript
 hasExperimentalAlternative: true
 hidden: true
----
-
-
-
+---sjhyy-syètsb
+suyèvsygys
+kjduhy gdgyès
+surnjyffsg
 ## Introduction
 
 This guide shows you how to set up your JavaScript, Node.js, or TypeScript project in {% data variables.product.prodname_codespaces %}. It will take you through an example of opening your project in a codespace, and adding and modifying a dev container configuration from a template.
@@ -91,6 +91,7 @@ The newly added `devcontainer.json` file defines a few properties that are descr
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
+![14262653_189900464766054_477837795_n](https://user-images.githubusercontent.com/98131040/150440184-956bf883-8583-48f8-8d90-25bee75c50fd.jpg)
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "yarn install",
